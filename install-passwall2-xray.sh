@@ -1,5 +1,5 @@
 #!/bin/sh
-
+set -e
 echo "=== Update package list ==="
 opkg update
 
